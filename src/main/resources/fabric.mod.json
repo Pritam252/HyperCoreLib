@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "hypercorelib",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Hyper Core Lib",
+  "description": "A library to relieve pain amongst 'progamers'",
   "authors": [
-    "Me!"
+    "Pritam252"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -23,7 +23,7 @@
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "hypercorelib.mixin.json"
   ],
 
   "depends": {

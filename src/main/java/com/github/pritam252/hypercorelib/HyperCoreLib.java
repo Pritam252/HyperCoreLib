@@ -18,6 +18,8 @@ public class HyperCoreLib implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Welcome to Minecraft FabricMC with HyperCoreLib by Pritam252");
 	}
-
 }
+
+
